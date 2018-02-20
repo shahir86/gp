@@ -9,7 +9,7 @@
 
 #Step 4
 - browse 'SearchEmail.php' (to search uuser by email address)
-- sample parameter : SearchEmail.php?emailAddress=mshahir86@gmail.com
+- sample parameter : SearchEmail.php?emailAddress=test@gmail.com
 
 #Step 5
 - browse 'formUpdate.php' (to update user's password)
