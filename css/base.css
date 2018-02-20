@@ -1,0 +1,24 @@
+body {
+
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:black;
+	
+}
+
+
+#content { border: #669900 1px solid }
+#content th { background:#1b4ba2 url(../images/bg-title.gif) repeat-x; padding: 7px 0 0px 5px; text-align:left; font-size:12px; color:white;}
+
+.textlogin{ padding-left:10px;}
+
+.textreg {padding-right:25px; font-size:11px; color:#006699;}
+.textreg a{color:#006699; text-decoration:none;}
+.textreg a:hover{text-decoration:underline;}
+.textreg a:visited{text-decoration:underline;}
+
+.buttonlogin{ font-size:12px; width:80px; margin-right:10px;}
